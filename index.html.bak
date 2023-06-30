@@ -2,7 +2,6 @@
 <head>
 <style>
     html, body{
-	.bg {
 	  background-image: url("zezo.jpg");
 	  background-size:100%;
 	  background-repeat: no-repeat;
